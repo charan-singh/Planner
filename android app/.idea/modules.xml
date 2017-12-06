@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/android app.iml" filepath="$PROJECT_DIR$/android app.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Planner.iml" filepath="$PROJECT_DIR$/Planner.iml" />
+>>>>>>> 28caa03bac62467957494f63673e326ace1685f7
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

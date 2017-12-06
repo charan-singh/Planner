@@ -3,6 +3,7 @@
 
     <item
         is-multidex="true"
+<<<<<<< HEAD
         jar="C:\Users\Taylor McCallum\Desktop\Homework\CP Project\Planner-master\android app\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
@@ -18,6 +19,23 @@
         revision="26.0.1"
         sha1="32216d5512251f492244930b7457f91f5ca2da2e">
         <dex dex="C:\Users\Taylor McCallum\Desktop\Homework\CP Project\Planner-master\android app\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_33b0515a69ef34460dc29da68146466e3dd54161\classes.dex" />
+=======
+        jar="D:\docs\programmer project\Planner\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18a754c0ab585d0016e38e357d29bfc3e39f49a3">
+        <dex dex="D:\docs\programmer project\Planner\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c42a4730eb4c0111aae1c7ea95a55c016d407681\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\docs\programmer project\Planner\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\docs\programmer project\Planner\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_37c31771b0c770afb56cca4880f5b75f5a5fadb4\classes.dex" />
+>>>>>>> 28caa03bac62467957494f63673e326ace1685f7
     </item>
 
 </items>
